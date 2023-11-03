@@ -42,4 +42,4 @@ insert into student_tbl (student_id, first_name, last_name, group_id)
 insert into student_tbl (student_id, first_name, last_name, group_id)
                          values (1190, 'Patrick', 'McTetras', 'PE-03');
                          
-    
+commit;    
